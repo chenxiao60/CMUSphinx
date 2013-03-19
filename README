@@ -1,0 +1,15 @@
+CMU Sphinx
+---------------------------
+
+CMU Sphinx toolkit has a number of packages for different tasks and applications. 
+It's sometimes confusing what to choose. To cleanup, here is the list
+
+	Pocketsphinx - recognizer library written in C.
+	Sphinxtrain - acoustic model training tools
+	Sphinxbase - support library required by Pocketsphinx and Sphinxtrain
+	Sphinx4 - adjustable, modifiable recognizer written in Java
+	CMUclmtk - language model tools
+
+Reference:
+	http://cmusphinx.sourceforge.net/wiki/download/
+
